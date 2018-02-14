@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+## Welcome to the Hawk Project
 
-You can use the [editor on GitHub](https://github.com/MayankVachher/Hawk/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+In partnership with WeRobotics and OpenAerialMap, the World Bank’s UAVs for Disaster Resilience Program captured roughly 80 KM^2 of high resolution (under 10 cm) aerial imagery in one Small Island State in October 2017.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This project is an attempt to automate the analysis of the aforementioned imagery.
 
-### Markdown
+### Tasks
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<!-- Discuss the different classifiers in brief (what are they classifying) -->
 
-```markdown
-Syntax highlighted code block
+### Technology
 
-# Header 1
-## Header 2
-### Header 3
+<!-- Discuss in an overview what technology was used (RNNs, CNNs) and why [ELI5] -->
 
-- Bulleted
-- List
+### Datasets
 
-1. Numbered
-2. List
+<!-- Discuss the variious sources, types of data and how they were combined -->
 
-**Bold** and _Italic_ and `Code` text
+### Impact
 
-[Link](url) and ![Image](src)
-```
+<!-- Discuss the implications of such technology and how it helps the world -->
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Contact Us
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MayankVachher/Hawk/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Got any suggestions for us or just want to talk to us? Ping [Mayank Vachher](mailto:mvachher@sfu.ca) or [Anna Mkrtchyan](mailto:amkrtchy@sfu.ca) and we’ll get back to you!
