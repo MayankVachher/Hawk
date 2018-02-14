@@ -20,6 +20,6 @@ This project is an attempt to automate the analysis of the aforementioned imager
 
 <!-- Discuss the implications of such technology and how it helps the world -->
 
-### Contact Us
+### Contact us
 
 Got any suggestions for us or just want to talk to us? Ping [Mayank Vachher](mailto:mvachher@sfu.ca) or [Anna Mkrtchyan](mailto:amkrtchy@sfu.ca) and we’ll get back to you!
