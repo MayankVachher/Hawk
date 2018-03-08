@@ -1,0 +1,1 @@
+wget http://oin-hotosm.s3.amazonaws.com/5a28639331eff4000c380690/0/5b1b6fb2-5024-4681-a175-9b667174f48c.tif -O kolovai.tif
