@@ -3,6 +3,8 @@
 kolovai.tif
 
 kolovai-*
+Kolovai-*
+*.geojson
 
 
 # Created by https://www.gitignore.io/api/linux,macos,python,pycharm+all,apachehadoop,jupyternotebook
